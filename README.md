@@ -1,5 +1,5 @@
 # India Water Quality Dashboard 
-# A Data-Driven Assessment of Surface & Groundwater Quality for SDG 6
+# Data-Driven Assessment of Surface & Groundwater Quality for SDG-6
 
 Interactive dashboard analysing 2022 NWMP lake, pond, tank & wetland monitoring data across 31 Indian states — aligned with **SDG 6: Clean Water and Sanitation**.
 
