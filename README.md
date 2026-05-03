@@ -4,7 +4,7 @@
 Interactive dashboard analysing 2022 NWMP lake, pond, tank & wetland monitoring data across 31 Indian states — aligned with **SDG 6: Clean Water and Sanitation**.
 
 ## Live Demo
-🔗 [View Dashboard](https://your-app.streamlit.app)
+🔗 [View Dashboard](https://india-water-quality-analysis-123456.streamlit.app/)
 
 ## Features
 - KPI summary cards (locations, states, critical BOD sites, avg dissolved oxygen)
