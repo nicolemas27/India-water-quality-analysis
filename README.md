@@ -1,9 +1,9 @@
-# India Water Quality Dashboard 💧
+# India Water Quality Dashboard 
+# A Data-Driven Assessment of Surface & Groundwater Quality for SDG 6
 
 Interactive dashboard analysing 2022 NWMP lake, pond, tank & wetland monitoring data across 31 Indian states — aligned with **SDG 6: Clean Water and Sanitation**.
 
 ## Live Demo
-<!-- Replace with your Streamlit Cloud URL after deploying -->
 🔗 [View Dashboard](https://your-app.streamlit.app)
 
 ## Features
@@ -32,14 +32,6 @@ pip install -r requirements.txt
 # Place 2022_lake_data.csv in the same folder as app.py
 streamlit run app.py
 ```
-
-## Deploy on Streamlit Cloud (Free)
-
-1. Push this folder to a GitHub repository (include `2022_lake_data.csv`)
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub account
-4. Select your repo, branch `main`, and set **Main file path** to `app.py`
-5. Click **Deploy** — live in ~2 minutes
 
 ## WHO / CPCB Thresholds Used
 | Parameter | Safe Limit |
